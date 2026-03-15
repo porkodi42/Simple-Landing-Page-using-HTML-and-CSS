@@ -1,2 +1,7 @@
-# Simple-Landing-Page-using-HTML-and-CSS
-A simple landing page created using HTML and CSS.This project focuses on building a clean layout and practicing basic frontend web devepment skills.
+Simple-Landing-Page-using-HTML-and-CSS
+Technologies used:
+HTML
+CSS
+About Project:
+This project is basic landing page designed using HTML and CSS.It focuses on creating a clean layout and practcing frontend development skills
+
